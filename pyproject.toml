@@ -4,7 +4,7 @@ version = "0.1.0"
 description = "Add a short description here"
 dependencies = []
 readme = "README.md"
-requires-python = ">= 3.10"
+requires-python = ">= 3.11"
 
 [build-system]
 requires = ["hatchling"]
